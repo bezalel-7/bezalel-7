@@ -7,7 +7,7 @@
 <ul>
 <li>&#x1F52D; Diving deep into the realm of deep learning, unraveling AI mysteries.</li>
 <li>&#x1F91D; I'm seeking assistance in understanding and implementing effective DevOps methodologies.</li>
-<li>&#x26A1; Fun Fact ----- ></li>
+<li>&#x26A1; Fun Fact ----- > it Works on My Machine</li>
 </ul>
 <br>
 <div>
